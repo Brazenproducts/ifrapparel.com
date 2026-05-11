@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ifrapparel.com/sitemap.xml
