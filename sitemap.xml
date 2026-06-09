@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://ifrapparel.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://ifrapparel.com/best-best-flame-resistant-workwear-fr-apparel-2026.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://ifrapparel.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://ifrapparel.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://ifrapparel.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://ifrapparel.com/how-to-choose-ifrapparel-may-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://ifrapparel.com/ifrapparel-buying-guide-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://ifrapparel.com/how-to-pick-ifrapparel-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://ifrapparel.com/truth-about-ifrapparel-2026.html</loc><lastmod>2026-05-18</lastmod></url>
-  <url><loc>https://ifrapparel.com/what-we-look-for-ifrapparel-2026.html</loc><lastmod>2026-05-19</lastmod></url>
-  <url><loc>https://ifrapparel.com/ifrapparel-what-wed-buy-2026.html</loc><lastmod>2026-05-22</lastmod></url>
-  <url><loc>https://ifrapparel.com/best-ifrapparel-without-overpaying.html</loc><lastmod>2026-05-23</lastmod></url>
-  <url><loc>https://ifrapparel.com/ifrapparel-reviewed-2026.html</loc><lastmod>2026-05-27</lastmod></url>
-  <url><loc>https://ifrapparel.com/ifrapparel-what-buyers-need-2026.html</loc><lastmod>2026-05-31</lastmod></url>
-  <url><loc>https://ifrapparel.com/ifrapparel-worth-the-upgrade-2026.html</loc><lastmod>2026-06-03</lastmod></url>
-  <url><loc>https://ifrapparel.com/ifrapparel-explained-2026.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://ifrapparel.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
